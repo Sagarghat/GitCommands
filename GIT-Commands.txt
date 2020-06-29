@@ -1,0 +1,21 @@
+
+
+ (1) create Repositary
+
+ (2) Copy Link
+
+ (3) (a) Choose location && Right click && "GIT_BASH HERE"
+     (b) git clone <LINK> 
+     
+ (4)  Paste Content 
+
+ (5) Again do "GIT_BASH HERE"  inside folder
+
+ (6) git add *
+
+ (7) git commit -m "MESSAGE"
+
+ (8) git push
+
+
+ There are many Commands in GIT
